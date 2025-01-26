@@ -1,10 +1,16 @@
 # Birds iOS App
 
-This is the simple iOS application project developed using the Swift programming language, the SwiftUI framework, and the Realm database.
+This iOS app, built with SwiftUI, loads bird data from a JSON file, enabling users to explore and learn about various bird species while marking their favorites.
+
+## Used Technologies
+
+- Swift Programming Language
+- SwiftUI Framework
+- Realm Database
 
 ## Acknowledgements
 
-Resources for the project were provided by Ko Sann Lynn Htun. https://github.com/sannlynnhtun-coding/
+Resources for the project were provided by Ko Sann Lynn Htun (https://github.com/sannlynnhtun-coding/).
 
 [Birds Resources](https://github.com/burma-project-ideas/birds)
 
