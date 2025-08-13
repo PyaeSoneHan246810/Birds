@@ -1,5 +1,7 @@
 # Birds iOS App
 
+<img width="240" height="240" alt="Image" src="https://github.com/user-attachments/assets/c005936d-3f72-4ca3-995d-1e786e13cc44" />
+
 This iOS app, built with SwiftUI, loads bird data from a JSON file, enabling users to explore and learn about various bird species while marking their favorites.
 
 ## Used Technologies
